@@ -1,0 +1,23 @@
+{
+  "name": "firstnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo_module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RritikaG/NODEJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RritikaG/NODEJS/issues"
+  },
+  "homepage": "https://github.com/RritikaG/NODEJS#readme",
+  "dependencies": {
+    "upper-case": "^2.0.1",
+    "util": "^0.12.1"
+  }
+}
